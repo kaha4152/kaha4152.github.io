@@ -1,4 +1,4 @@
-<!-- Do not include these comments in your HTML file. I provide them here for
+ <!-- Do not include these comments in your HTML file. I provide them here for
 instruction purposes -->
 
 <!-- I suggest using the html5 doctype. We could also get away with xhtml 1.0 Strict or or
@@ -54,7 +54,7 @@ the meaning of a page. -->
 
 <!-- Enter the text what will go in your top banner -->
 
-<p>Banner Text - should this be a heading</p> <!-- Should this be a header; you decide -->
+<p>University of Colorado Boulder</p> <!-- Should this be a header; you decide -->
 </header>
 <nav role="navigation">
 <ul> <!-- navigation is usually coded as an unordered list -->
@@ -80,13 +80,13 @@ to include on your redesigned page!! -->
 </div> <!-- end search div -->
 <div role="main">
 <!-- enter the text or a summary of the text that will go in the main content -->
-<h1>Header for Main Content</h1>
-<p>text for main content</p>
+<h1>Center for Disability and Access</h1>
+<p>The Center for Disability and Access is dedicated to fostering an inclusive environment by providing comprehensive support services that ensure accommodations, accessibility, and equitable access for students, staff, faculty, and visitors throughout the CU community.</p>
 </div> <!-- end main content div -->
 <footer>
-<h2>Heading for footer section</h2>
+<h2>Center for Disability and Access</h2>
 <img src="images/footerimageTBA.png" alt="Footer image TBA" />
-<p>Additional text for footer section</p>
+<p>107 UCB, Boulder, CO</p>
 </footer>
 </body>
 </html>
